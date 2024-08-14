@@ -1,0 +1,11 @@
+1.Gender Distribution.
+2.Parents education impacts on Students scores.
+3.Parents Education Impacts on Students Scores using heatmap.
+4.Parents Marrital Status Impacts on Students scores.
+5.Parents Marrital Status Impacts on Students Scores using heatmap.
+6.Practice Sports Impacts on Students Scores.
+7.Practice Sports Impacts on Students Scores using heatmap.
+8.Outliers(Extreme Value) in MathScore.
+9.Outliers(Extreme Value) in ReadingScore.
+10.Outliers(Extreme Value) in WritingScore.
+11.EthnicGroup Distriution.
